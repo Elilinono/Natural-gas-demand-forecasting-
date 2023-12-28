@@ -1,4 +1,4 @@
-# Nonlinear Causality Analysis
+# Natrual Gas Demand Forecasting with Causality Analysis
 
 This repository hosts the Python code and datasets created for my Master's thesis, dedicated to exploring non-linear causality within German natural gas demand and other influencing factors, employing LSTM, GRU, and other neural network methodologies. The approach encompasses a spectrum from machine learning techniques to statistical testing.
 
