@@ -2,7 +2,7 @@
 
 This repository hosts the Python code and datasets created for my Master's thesis, dedicated to exploring causality within German natural gas demand and other influencing factors, employing LSTM, GRU, and other neural network methodologies. The approach encompasses a spectrum from machine learning techniques to statistical testing.
 
-The foundational functions employed in this analysis were sourced from the Nonlincausality repository at https://github.com/mrosol/Nonlincausality, which have been adapted and applied to examine natural gas demand data.
+The foundational functions of nonlinear causality analysis employed were sourced from the Nonlincausality repository at https://github.com/mrosol/Nonlincausality, which have been adapted and applied to examine natural gas demand data.
 
 ## Repository Structure
 
